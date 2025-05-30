@@ -15,6 +15,12 @@ I no longer use social media platforms. Networking with *me* happens through **s
 - Operations Manager
 - Datacenter Manager
 
+# Projects
+*... comming soon*
+
+# Education & Qualifications
+*... comming soon*
+
 # Sectors
 - Public / Defence / Intelligence Service
 - Private
