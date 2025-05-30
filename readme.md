@@ -1,6 +1,6 @@
 # Kristoffer Hansen
 
-Contact details
+### Contact details
  - Mail: post@sitec.dk
  - Phone +45 50592099
 
