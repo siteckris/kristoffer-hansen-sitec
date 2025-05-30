@@ -21,7 +21,7 @@ I no longer use social media platforms, because networking with *me* happens thr
 
 # Personal traits
 - "Get shit done"
-  - I know ITIL/Agile/SRE/SCRUM. But more important; I know **what** to use *when*
+  - I know ITIL/Agile/SRE/SCRUM, and I know **what** to use **when**
 - Team player
 - Pragmatic
 - Robust
