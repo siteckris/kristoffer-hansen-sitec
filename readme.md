@@ -1,5 +1,5 @@
 # Kristoffer Hansen
-![Kristoffer Hansen - Sitec](files/kristoffer-hansen-sitec.png "Kristoffer Hansen - Sitec"){width=100 height=100}
+![Kristoffer Hansen - Sitec](files/kristoffer-hansen-sitec.png "Kristoffer Hansen - Sitec"){width=100px height=100px}
 
 ### Contact details
  - Mail: post@sitec.dk
