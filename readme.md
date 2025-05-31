@@ -16,10 +16,17 @@ I no longer use social media platforms. Networking with *me* happens through **s
 - Datacenter Manager
 
 # Projects
-*... comming soon*
+- Infrastructure redesign
+- Migrate Azure workload to Exoscale
+- Build onprem S3-compatible using Ceph and rados
+- POC Red Hat Openshift vs. Canonical OpenStack
+- Migrating Azure workloads to onprem on Centos Stream
+- Zero-downtime migration of legacy fileshares to new infrastrucure
 
 # Education & Qualifications
-*... comming soon*
+- A little MS
+- A good part Linux
+- A whole lot of teambuilding
 
 # Sectors
 - Public / Defence / Intelligence Service
