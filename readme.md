@@ -1,4 +1,5 @@
 # Kristoffer Hansen
+![Kristoffer Hansen - Sitec](files/kristoffer-hansen-sitec.png "Kristoffer Hansen - Sitec")
 
 ### Contact details
  - Mail: post@sitec.dk
