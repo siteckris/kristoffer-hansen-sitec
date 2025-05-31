@@ -23,6 +23,7 @@ I no longer use social media platforms. Networking with *me* happens through **s
 - POC Red Hat Openshift vs. Canonical OpenStack
 - Migrating Azure workloads to onprem on Centos Stream
 - Zero-downtime migration of legacy fileshares to new infrastrucure
+- Data center accreditations (ISO/ISAE/SOX)
 
 # Education & Qualifications
 - A little MS
